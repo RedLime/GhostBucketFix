@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.redlimerl.ghostbucketfix.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MixinClientPlayerInteractionManager"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

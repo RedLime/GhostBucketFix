@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "ghostbucketfix",
+  "version": "${version}",
+  "name": "GhostBucketFix",
+  "description": "",
+  "authors": [ "RedLime" ],
+  "license": "MIT",
+  "environment": "client",
+  "mixins": [
+    "ghostbucketfix.mixins.json"
+  ],
+  "depends": {
+    "minecraft": "<1.17"
+  }
+}
